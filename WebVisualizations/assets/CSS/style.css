@@ -32,7 +32,7 @@ html {
   /* ----NAV START---- */
   .navbar-custom {
     background-color: #fff;
-  }
+    }
   
   #logo {
     /* Box-model */
@@ -270,5 +270,14 @@ html {
     background-color: #4aaaa5;
   }
   
+
+  navbar-brand{
+    font-size: 60px;
+}
+.nav-item{
+    font-size: 40 px !important;
+}
+
+
   /* ----FOOTER END---- */
   
